@@ -49,9 +49,9 @@
  
 ### Os dois microserviços devem se comunicar utilizando GRPC
 
-### Os endpoints dos microserviços devem estar disponíveis para consumo por uma interface amigável
-
 ### Construir APIRest em Adonis, Nest ou Express
+
+### Os endpoints dos microserviços devem estar disponíveis para consumo por uma interface amigável
 
 ### Pontos importantes:
 - Testes unitários 
