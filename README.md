@@ -11,8 +11,8 @@
 - GRPC
 - ORM (diferencial)
 
-### Desafio:
-#### Construa um microserviço para farmárcia: 
+## Desafio:
+### Construa um microserviço para farmárcia: 
 - Cadastrar uma farmácia sede
 - 1 farmácia sede pode ter até 3 farmácias filiais
 - Atualizar os dados da farmácia
@@ -30,7 +30,7 @@
   - telefone
   - outros
 
-#### Construa um microserviço para produtos: 
+### Construa um microserviço para produtos: 
 - Criar produtos
 - Deletar um produto
 - Atualizar produtos
