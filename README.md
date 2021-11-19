@@ -6,10 +6,10 @@
 - NodeJS com Typescript
 - Testes com Jest
 - Docker 
-- Express
+- Adonis, Nest ou Express
 - MariaDB
+- GRPC
 - ORM (diferencial)
-- GRPC (diferencial)
 
 ### Desafio:
 #### Construa um microserviço para farmárcia: 
@@ -51,9 +51,12 @@
 
 ### Os endpoints dos microserviços devem estar disponíveis para consumo por uma interface amigável
 
+### Construir APIRest em Adonis, Nest e Express
+
 ### Pontos importantes:
 - Testes unitários 
 - Princípios de SOLID
 - Arquitetura limpa
 - Boas práticas de código
+- 
 
