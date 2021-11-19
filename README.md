@@ -51,7 +51,7 @@
 
 ### Os endpoints dos microserviços devem estar disponíveis para consumo por uma interface amigável
 
-### Construir APIRest em Adonis, Nest e Express
+### Construir APIRest em Adonis, Nest ou Express
 
 ### Pontos importantes:
 - Testes unitários 
