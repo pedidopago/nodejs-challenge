@@ -12,19 +12,13 @@
 - GRPC (diferencial)
 
 ### Desafio:
-#### Construa um microserviço para: 
+#### Construa um microserviço para farmárcia: 
 - Cadastrar uma farmácia sede
 - 1 farmácia sede pode ter até 3 farmácias filiais
-- 1 farmácia pode ter x produtos 
-    - Criar produtos
-    - Deletar um produto
-    - Atualizar produtos
-    - Clonar um produto
-    - Listar todos os produtos
-    - Pegar informações de um produto
 - Atualizar os dados da farmácia
 - Deletar uma farmácia
 - Listar as farmácias
+- Buscar os dados de uma farmácia
 
 #### Uma farmácia deve ter:
   - logo
@@ -36,6 +30,14 @@
   - telefone
   - outros
 
+#### Construa um microserviço para produtos: 
+- Criar produtos
+- Deletar um produto
+- Atualizar produtos
+- Clonar um produto
+- Listar todos os produtos
+- Pegar informações de um produto
+
 #### Um produto deve ter:
   - thumbnail
   - nome
@@ -44,3 +46,14 @@
   - disponibilidade
   - volume
   - outros
+ 
+### Os dois microserviços devem se comunicar utilizando GRPC
+
+### Os endpoints dos microserviços devem estar disponíveis para consumo por uma interface amigável
+
+### Pontos importantes:
+- Testes unitários 
+- Princípios de SOLID
+- Arquitetura limpa
+- Boas práticas de código
+
