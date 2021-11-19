@@ -58,5 +58,4 @@
 - Princípios de SOLID
 - Arquitetura limpa
 - Boas práticas de código
-- 
 
